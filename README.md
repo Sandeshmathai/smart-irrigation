@@ -27,7 +27,9 @@ Smart Controllers:Smart irrigation controllers use advanced algorithms to determ
 Integration with IoT Platforms:Connectivity with Internet of Things (IoT) platforms enables a more interconnected and intelligent irrigation system, allowing for seamless data exchange and coordination with other smart devices.
 Energy-Efficient Pumping Solutions:Implementation of energy-efficient pumping solutions helps minimize the energy consumption associated with water delivery in the irrigation system.
 User Alerts and Notifications:Smart irrigation systems can send alerts and notifications to users, providing information about system status, maintenance requirements, or irregularities in water flow.
+
 **Mind mapping**
+
 ![WhatsApp Image 2023-11-17 at 7 49 31 AM](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/c5758ea8-5c2d-4e53-853d-eddb3c8baf97)
 
 **flowchart**
