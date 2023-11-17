@@ -29,6 +29,8 @@ Energy-Efficient Pumping Solutions:Implementation of energy-efficient pumping so
 User Alerts and Notifications:Smart irrigation systems can send alerts and notifications to users, providing information about system status, maintenance requirements, or irregularities in water flow.
 **Mind mapping**
 ![WhatsApp Image 2023-11-17 at 7 49 31 AM](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/c5758ea8-5c2d-4e53-853d-eddb3c8baf97)
+
 **flowchart**
+
 ![Capture](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/be3126e8-01d5-4586-ac23-e40701c98d24)
 
