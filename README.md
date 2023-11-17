@@ -1,6 +1,6 @@
 # smart-irrigation
 This project based on Iot enabled smart irrigation system
-OBJECTIVES:Smart irrigation systems are designed with a multifaceted set of objectives that collectively aim to revolutionize traditional irrigation practices. The overarching goal is to address challenges related to water scarcity, environmental impact, and resource inefficiencies in agriculture and landscaping. Here, we delve into a more comprehensive exploration of the objectives for smart irrigation.
+**OBJECTIVES**:Smart irrigation systems are designed with a multifaceted set of objectives that collectively aim to revolutionize traditional irrigation practices. The overarching goal is to address challenges related to water scarcity, environmental impact, and resource inefficiencies in agriculture and landscaping. Here, we delve into a more comprehensive exploration of the objectives for smart irrigation.
 The objectives of moisture sensors revolve around efficient water management, resource conservation, and improved agricultural practices. Here are the key objectives:
 Precision Irrigation:Provide accurate and real-time measurement of soil moisture levels to enable precise irrigation scheduling.
 Water Conservation:Facilitate the conservation of water by ensuring that irrigation is only applied when the soil moisture drops below optimal levels, preventing overwatering.
@@ -11,7 +11,7 @@ Climate Monitoring:Provide real-time and accurate measurements of humidity and t
 Indoor Comfort:Contribute to indoor comfort by ensuring optimal temperature and humidity levels for occupants in residential, commercial, and industrial spaces.
 Energy Efficiency:Support energy-efficient HVAC systems by providing data that enables precise control over heating, ventilation, and air conditioning based on environmental conditions.
 
-FEATURES:
+**FEATURES**:
 mart irrigation systems incorporate various features that leverage technology to enhance efficiency, conserve water, and optimize resource usage. Here are some key features of smart irrigation:
 Soil Moisture Sensors:Integration of soil moisture sensors enables real-time monitoring of soil moisture levels, allowing precise and data-driven irrigation decisions.
 Weather Forecast Integration:Incorporation of weather forecasts helps the system adjust irrigation schedules based on upcoming weather conditions, preventing unnecessary watering during or after rain.
@@ -27,3 +27,8 @@ Smart Controllers:Smart irrigation controllers use advanced algorithms to determ
 Integration with IoT Platforms:Connectivity with Internet of Things (IoT) platforms enables a more interconnected and intelligent irrigation system, allowing for seamless data exchange and coordination with other smart devices.
 Energy-Efficient Pumping Solutions:Implementation of energy-efficient pumping solutions helps minimize the energy consumption associated with water delivery in the irrigation system.
 User Alerts and Notifications:Smart irrigation systems can send alerts and notifications to users, providing information about system status, maintenance requirements, or irregularities in water flow.
+**Mind mapping**
+![WhatsApp Image 2023-11-17 at 7 49 31 AM](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/c5758ea8-5c2d-4e53-853d-eddb3c8baf97)
+**flowchart**
+![Capture](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/be3126e8-01d5-4586-ac23-e40701c98d24)
+
