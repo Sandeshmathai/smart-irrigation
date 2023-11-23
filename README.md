@@ -1,14 +1,21 @@
 # smart-irrigation
 This project based on Iot enabled smart irrigation system
 **OBJECTIVES**:Smart irrigation systems are designed with a multifaceted set of objectives that collectively aim to revolutionize traditional irrigation practices. The overarching goal is to address challenges related to water scarcity, environmental impact, and resource inefficiencies in agriculture and landscaping. Here, we delve into a more comprehensive exploration of the objectives for smart irrigation.
+
 The objectives of moisture sensors revolve around efficient water management, resource conservation, and improved agricultural practices. Here are the key objectives:
+
 Precision Irrigation:Provide accurate and real-time measurement of soil moisture levels to enable precise irrigation scheduling.
+
 Water Conservation:Facilitate the conservation of water by ensuring that irrigation is only applied when the soil moisture drops below optimal levels, preventing overwatering.
+
 Optimal Plant Health:Contribute to optimal plant health by maintaining soil moisture levels within the range suitable for specific crops, preventing both water stress and waterlogging.
+
 Resource Efficiency:Enhance resource efficiency by optimizing water usage, reducing the overall water footprint of agricultural and landscaping activities.
 The objectives of humidity and temperature sensors revolve around providing accurate environmental data for various applications. Here are the key objectives:
+
 Climate Monitoring:Provide real-time and accurate measurements of humidity and temperature to monitor and understand climate conditions.
 Indoor Comfort:Contribute to indoor comfort by ensuring optimal temperature and humidity levels for occupants in residential, commercial, and industrial spaces.
+
 Energy Efficiency:Support energy-efficient HVAC systems by providing data that enables precise control over heating, ventilation, and air conditioning based on environmental conditions.
 
 **FEATURES**:
