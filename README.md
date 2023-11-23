@@ -36,7 +36,30 @@ User Alerts and Notifications:Smart irrigation systems can send alerts and notif
 
 ![WhatsApp Image 2023-11-23 at 11 18 38 AM](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/ef8d5ac9-b067-4f26-9b92-0ce9fdcc690f)
 
-Algorithm
+Algorithm:
+
+Step 1: start
+
+Step 2: Initialize the system
+
+Step 3: Read the PIR, moisture sensor from soil and tank
+
+step 4: Receive the observed data 
+
+Step 5: analyze the data
+
+Step 6: if motion detected, buzzer get activated, if no re-read the PIR sensor.
+             If the soil is dry, it start the irrigation process, or else re-read the moisture in the soil.
+             If the tank level below the below the threshold , motor will turn on , if no re-measure   
+              the tank level .
+              
+Step 6 : stop
+
+block daigram:
+![Screenshot (32)](https://github.com/vaishnavipoojary19/Smart-irrigation/assets/149662396/7bf596ee-8d4f-476a-bdce-61cd64213c6e)
+
+
+
 
 
 
