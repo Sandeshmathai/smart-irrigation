@@ -34,5 +34,9 @@ User Alerts and Notifications:Smart irrigation systems can send alerts and notif
 
 **flowchart**
 
-![Capture](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/be3126e8-01d5-4586-ac23-e40701c98d24)
+![WhatsApp Image 2023-11-23 at 11 18 38 AM](https://github.com/Sandeshmathai/smart-irrigation/assets/149514171/ef8d5ac9-b067-4f26-9b92-0ce9fdcc690f)
+
+Algorithm
+
+
 
